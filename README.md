@@ -5,3 +5,5 @@ docker로 구성한 mongo-cluster 연습
  - Ubuntu 20.04.2 LTS
  - Mongo DB version 4.4.6
  - docker
+
+## Get started
