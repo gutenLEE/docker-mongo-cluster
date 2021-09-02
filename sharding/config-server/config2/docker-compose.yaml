@@ -4,7 +4,7 @@ version: '3'
 services:
 
   cfgsvr2:
-    container_name: cfgsvr2
+    container_name: cfgsvr1-yh-test
     image: mongo
     command: mongod --configsvr --replSet cfgrs --port 27017 --dbpath /data/db
     ports:
