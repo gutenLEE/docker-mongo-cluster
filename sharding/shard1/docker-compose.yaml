@@ -29,6 +29,8 @@ services:
       - 50003:27017
     volumes:
       - shard1svr3:/data/db
+      
+# keyfile도 volume으로 관리 가능하다. 
 
 volumes:
   shard1svr1: {}
