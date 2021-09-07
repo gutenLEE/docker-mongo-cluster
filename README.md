@@ -12,7 +12,8 @@ $$$$$$$/   $$$$$$/   $$$$$$$/ $$/   $$/  $$$$$$$/ $$/
 ```
 
 # docker-mongo-cluster
-docker로 구성한 mongo-cluster 연습
+docker로 구성한 mongo-cluster 연습 && 
+dockerfile, docker-compose 사용 익히기
 
 ## Environments
  - Ubuntu 20.04.2 LTS
